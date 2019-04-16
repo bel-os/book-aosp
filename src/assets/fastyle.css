@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'yekan';
+    src: url('https://ir-cloud.ir/fonts/Yekan/Yekan-Regular.woff2') format('woff2'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Regular.woff') format('woff'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Regular.ttf') format('truetype'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('https://ir-cloud.ir/fonts/Yekan/Yekan-Bold.woff2') format('woff2'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Bold.woff') format('woff'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Bold.ttf') format('truetype'), url('https://ir-cloud.ir/fonts/Yekan/Yekan-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+html, body {
+    direction: rtl;
+    font-family: 'IRYekan', 'yekan', 'IRNazanin', serif;
+}
+
+p, li, span, td {
+    font-family: 'IRYekan', 'yekan', 'IRNazanin', serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'IRAmir', 'yekan', 'IRNazanin', serif;
+    font-weight: normal;
+}
+
+.md-tabs a {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.md-nav .md-nav__link {
+    font-size: 12px;
+    padding-bottom: 4px;
+}
+
+.md-nav label {
+    margin-bottom: 1.5rem;
+}
+
+.md-nav li > label {
+    margin-top: 3rem;
+}
+
+.md-content {
+    padding-bottom: 10rem;
+}
+
+.md-content p {
+    text-align: justify;
+    line-height: 2.5em;
+}
+
+.md-footer-meta {
+    display: none;
+}
+
+.md-typeset h1, .md-typeset h2 {
+    letter-spacing: 3px;
+}
