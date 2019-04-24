@@ -21,7 +21,8 @@ nav:
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - دریافت کد AOSP: 'build/aosp_code.md'
-    - آشنایی با فرآیند ساخت: 'build/index.md'
+    - آشنایی با فرآیند ساخت: 'build/build.md'
+    - اجرا روی شبیه‌ساز: 'build/emulator.md'
     - مشکلات: 'build/problems/index.md'
 
   - تغییرات ساده:
