@@ -27,6 +27,7 @@ nav:
 
   - تغییرات ساده:
     - تغییرات ساده: 'modifications/index.md'
+    - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
   - سایر منابع:
     - معرفی منابع: 'references/index.md'
     - کتاب‌ها: 'references/books.md'
