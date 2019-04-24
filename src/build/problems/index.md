@@ -14,6 +14,9 @@ sudo chown yourusername -R /dev/kvm
 sudo usermod -a -G kvm yourusername
 ~~~
 
+
+
+
 * کمبود memory در emulator
 
 با استفاده از دستور زیر مقدار را می‌توانید مشخص کنید:

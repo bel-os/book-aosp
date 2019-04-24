@@ -20,6 +20,7 @@ nav:
     - AOSP چیست: 'introduction/aosp.md'
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
+    - دریافت کد AOSP: 'build/aosp_code.md'
     - آشنایی با فرآیند ساخت: 'build/index.md'
     - مشکلات: 'build/problems/index.md'
 
