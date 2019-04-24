@@ -21,6 +21,7 @@ nav:
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - آشنایی با فرآیند ساخت: 'build/index.md'
+    - مشکلات: 'build/problems/index.md'
 
   - تغییرات ساده:
     - تغییرات ساده: 'modifications/index.md'
