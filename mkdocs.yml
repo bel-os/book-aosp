@@ -19,7 +19,9 @@ nav:
     - درباره راهنما: 'index.md'
     - AOSP چیست: 'introduction/aosp.md'
   - فرآیند ساخت:
+    - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - آشنایی با فرآیند ساخت: 'build/index.md'
+
   - تغییرات ساده:
     - تغییرات ساده: 'modifications/index.md'
   - سایر منابع:
