@@ -37,7 +37,7 @@ export CCACHE_COMPRESS=1
 ~~~
 
 
-مقداردهی برای میزان مشخص استاده از RAM
+مقداردهی به jack برای میزان استفاده از RAM
 اگر با مشکل run out of memory مواجه می‌شوید راه ساده درست کردن آن استفاده از دستور زیر است.(در دستور زیر ۴گیگ مشخص شده)
 ~~~ text
 export ANDROID_JACK_VM_ARGS="-Dfile.encoding=UTF-8 -XX:+TieredCompilation -Xmx4G"
