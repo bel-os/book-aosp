@@ -19,6 +19,8 @@ nav:
     - درباره راهنما: 'index.md'
     - AOSP چیست: 'introduction/aosp.md'
     - آیا اندروید متن باز است؟: 'introduction/is-android-open-source.md'
+    - اصطلاحات اندروید: 'introduction/glossary.md'
+
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - دریافت کد AOSP: 'build/aosp_code.md'
@@ -30,7 +32,11 @@ nav:
     - تغییرات ساده: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
 
-  - دیگر:
+  - دستگاه‌ها:
+    - ملاحظات انواع دستگاه‌ها: devices/intro.md
+    - Tecno Camon C9: devices/tecno/c9.md
+
+  - متفرقه:
     - نصب: 'other/install/install.md'
 
   - سایر منابع:
