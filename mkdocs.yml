@@ -28,6 +28,9 @@ nav:
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
     - مشکلات: 'build/problems/index.md'
 
+  - مفاهیم اندروید:
+    - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
+
   - تغییرات ساده:
     - تغییرات ساده: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
