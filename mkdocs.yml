@@ -18,6 +18,9 @@ nav:
   - آشنایی:
     - درباره راهنما: 'index.md'
     - AOSP چیست: 'introduction/aosp.md'
+
+  - مفاهیم:
+    - امضای دیجیتالی: 'concepts/signing.md'
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - دریافت کد AOSP: 'build/aosp_code.md'
