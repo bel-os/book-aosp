@@ -16,14 +16,18 @@ theme:
     tabs: true
 nav:
   - آشنایی:
-    - درباره راهنما: 'index.md'
-    - AOSP چیست: 'introduction/aosp.md'
     - آیا اندروید متن باز است؟: 'introduction/is-android-open-source.md'
+    - AOSP چیست: 'introduction/aosp.md'
     - اصطلاحات اندروید: 'introduction/glossary.md'
+    - درباره راهنما: 'index.md'
 
-  - مفاهیم اولیه:
-    - امضای دیجیتالی: 'basic_concepts/signing.md'
     
+
+  - مفاهیم:
+      - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
+      - امضای دیجیتالی: 'concepts/signing.md'
+
+
     
 
 
@@ -32,21 +36,17 @@ nav:
     - دریافت کد AOSP: 'build/aosp_code.md'
     - آشنایی با فرآیند ساخت: 'build/build.md'
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
+    - نصب: 'other/install/install.md'
     - مشکلات: 'build/problems/index.md'
 
-  - مفاهیم اندروید:
-    - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
 
   - تغییرات ساده:
-    - تغییرات ساده: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
 
   - دستگاه‌ها:
     - ملاحظات انواع دستگاه‌ها: devices/intro.md
     - Tecno Camon C9: devices/tecno/c9.md
 
-  - متفرقه:
-    - نصب: 'other/install/install.md'
 
   - سایر منابع:
     - معرفی منابع: 'references/index.md'
