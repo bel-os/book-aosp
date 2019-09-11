@@ -21,15 +21,9 @@ nav:
     - اصطلاحات اندروید: 'introduction/glossary.md'
     - درباره راهنما: 'index.md'
 
-    
-
   - مفاهیم:
       - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
       - امضای دیجیتالی: 'concepts/signing.md'
-
-
-    
-
 
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
@@ -39,14 +33,14 @@ nav:
     - نصب: 'other/install/install.md'
     - مشکلات: 'build/problems/index.md'
 
-
   - تغییرات ساده:
+    - تغییرات ساده در سیستم‌عامل اندروید: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
 
   - دستگاه‌ها:
     - ملاحظات انواع دستگاه‌ها: devices/intro.md
+    - پشتیبان‌گیری و تغییر سیستم‌عامل: devices/os-change.md
     - Tecno Camon C9: devices/tecno/c9.md
-
 
   - سایر منابع:
     - معرفی منابع: 'references/index.md'
