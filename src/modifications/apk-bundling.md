@@ -26,7 +26,7 @@ include $(BUILD_PREBUILT)
 
 ۴.به مسیر **vendor/bna/config** رفته و فایل **common_bna.mk** را باز کنید و عمل زیر را انجام دهید:
 ```
-PRODUCT_PACKAGES += <your folder name in package/apps>
+PRODUCT_PACKAGES += <your app folder name>
 ```
 ۵.اکنون فرآیند  build(ساخت) را دوباره انجام دهید.(مسلما زمان بسیار کمتری صرف فرآیند ساخت خواهد شد)
 

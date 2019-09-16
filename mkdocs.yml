@@ -29,9 +29,10 @@ nav:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
     - دریافت کد AOSP: 'build/aosp_code.md'
     - آشنایی با فرآیند ساخت: 'build/build.md'
-    - ساخت روی یک دستگاه : 'build/build-device.md'
+    - فرآیند ساخت روی یک دستگاه : 'build/build-device.md'
+    - امضای دیجیتالی فرآیند ساخت : 'build/build-signing.md'
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
-    - نصب: 'other/install/install.md'
+    - نصب سیستم‌عامل بر روی گوشی: 'other/install/install.md'
     - مشکلات: 'build/problems/index.md'
 
   - تغییرات ساده:
