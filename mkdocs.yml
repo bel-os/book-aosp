@@ -32,7 +32,6 @@ nav:
     - فرآیند ساخت روی یک دستگاه : 'build/build-device.md'
     - امضای دیجیتالی فرآیند ساخت : 'build/build-signing.md'
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
-    - نصب سیستم‌عامل بر روی گوشی: 'other/install/install.md'
     - مشکلات: 'build/problems/index.md'
 
   - تغییرات ساده:
@@ -40,6 +39,7 @@ nav:
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
 
   - دستگاه‌ها:
+    - نصب: devices/install/samsung/starlte/starlte.md
     - ملاحظات انواع دستگاه‌ها: devices/intro.md
     - پشتیبان‌گیری و تغییر سیستم‌عامل: devices/os-change.md
     - Tecno Camon C9: devices/tecno/c9.md
