@@ -39,7 +39,7 @@ nav:
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
 
   - دستگاه‌ها:
-    - نصب: devices/install/samsung/starlte/starlte.md
+    - نصب: devices/install/install.md
     - ملاحظات انواع دستگاه‌ها: devices/intro.md
     - پشتیبان‌گیری و تغییر سیستم‌عامل: devices/os-change.md
     - Tecno Camon C9: devices/tecno/c9.md
