@@ -1,4 +1,5 @@
-||||||
-|---|---|---|---|---|
-|[Sasmsung](/install/devices/samsung/)|Motorola|Google|Xiaomi|Huawei|
+| Samsung | Motorola | Google | Huawei |
+| ----------- | ----------- | ----------- | ----------- |
+| [S9](/install/devices/samsung/starlte/starlte)      |        |
+
 
