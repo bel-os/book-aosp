@@ -34,15 +34,15 @@ nav:
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
     - مشکلات: 'build/problems/index.md'
 
+  - فرآیند نصب:
+    - نصب: install/install.md
+    - ملاحظات انواع دستگاه‌ها: install/intro.md
+    - پشتیبان‌گیری و تغییر سیستم‌عامل: install/os-change.md
+    - Tecno Camon C9: install/tecno/c9.md
+
   - تغییرات ساده:
     - تغییرات ساده در سیستم‌عامل اندروید: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
-
-  - دستگاه‌ها:
-    - نصب: devices/install/install.md
-    - ملاحظات انواع دستگاه‌ها: devices/intro.md
-    - پشتیبان‌گیری و تغییر سیستم‌عامل: devices/os-change.md
-    - Tecno Camon C9: devices/tecno/c9.md
 
   - سایر منابع:
     - معرفی منابع: 'references/index.md'
