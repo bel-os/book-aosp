@@ -1,5 +1,5 @@
 | Samsung | Motorola | Google | Huawei |
 | ----------- | ----------- | ----------- | ----------- |
-| [S9](/install/devices/samsung/starlte/starlte)      |        |
+| [S9](/fa/latest/install/devices/samsung/starlte/starlte)      |        |
 
 
