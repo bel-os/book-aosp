@@ -20,7 +20,7 @@ fastboot devices
 
 ۷.با اجرای دستور زیر فایل ریکاوری را که دانلود کردید نصب کنید.
 ```text
-fastboot flash boot <recovery_filename>.img
+fastboot boot <recovery_filename>.img
 
 ```
 ۸.بعد از آمدن فایل ریکاوری به قسمت wipe بروید.ابتدا عملیات format data را انجام دهید سپس به قسمت advanced wipe رفته قسمت های system و cache را انتخاب کنید و سپس از پایین صفحه swipe to wipe را انجام دهید.
