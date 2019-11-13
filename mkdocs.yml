@@ -24,6 +24,7 @@ nav:
   - مفاهیم:
       - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
       - امضای دیجیتالی: 'concepts/signing.md'
+      - پارتیشن vendor : 'concepts/vendor_partition.md'
 
   - فرآیند ساخت:
     - پیش‌نیاز‌ها: 'build/requirement/index.md'
