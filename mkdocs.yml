@@ -43,6 +43,8 @@ nav:
   - تغییرات ساده:
     - تغییرات ساده در سیستم‌عامل اندروید: 'modifications/index.md'
     - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
+    - اضافه کردن نام دامنه : 'modifications/set_host.md'
+    - تغییر آدرس سرورهای dns : 'modifications/change_dns.md'
 
   - سایر منابع:
     - معرفی منابع: 'references/index.md'
