@@ -28,3 +28,5 @@
 [android official source page](https://source.android.com/devices/architecture)
 
 [androidauthority site](https://www.androidauthority.com/project-treble-818225/)
+
+[computerworld site](https://www.computerworld.com/article/3306443/what-is-project-treble-android-upgrade-fix-explained.html)
