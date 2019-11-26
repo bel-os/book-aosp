@@ -15,38 +15,45 @@ theme:
   feature:
     tabs: true
 nav:
-  - آشنایی:
-    - آیا اندروید متن باز است؟: 'introduction/is-android-open-source.md'
-    - AOSP چیست: 'introduction/aosp.md'
-    - اصطلاحات اندروید: 'introduction/glossary.md'
-    - درباره راهنما: 'index.md'
+  - آشنایی و توضیحات:
+      - AOSP چیست: 'introduction/aosp.md'
+      - مقالات :
+          - آیا اندروید متن‌باز است؟  : 'introduction/is-android-open-source.md'
+      - اخبار :
+          - اخبار سیستم‌عامل : 'introduction/os_news.md'
+          - شرکت‌های سازنده‌‌ی تلفن همراه : 'introduction/oem_news.md'
 
   - مفاهیم:
       - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
       - امضای دیجیتالی: 'concepts/signing.md'
       - پارتیشن vendor : 'concepts/vendor_partition.md'
 
-  - فرآیند ساخت:
-    - پیش‌نیاز‌ها: 'build/requirement/index.md'
-    - دریافت کد AOSP: 'build/aosp_code.md'
-    - آشنایی با فرآیند ساخت: 'build/build.md'
-    - فرآیند ساخت روی یک دستگاه : 'build/build-device.md'
-    - امضای دیجیتالی فرآیند ساخت : 'build/build-signing.md'
-    - اجرا روی شبیه‌ساز: 'build/emulator.md'
-    - مشکلات: 'build/problems/index.md'
 
-  - فرآیند نصب:
-    - نصب: install/install.md
-    - ملاحظات انواع دستگاه‌ها: install/intro.md
-    - پشتیبان‌گیری و تغییر سیستم‌عامل: install/os-change.md
-    - Tecno Camon C9: install/tecno/c9.md
+  -  فرآیند ساخت و نصب: 
+      - فرآیند ساخت :     
+          - پیش‌نیاز‌ها: 'build/requirement/index.md'
+          - دریافت کد AOSP: 'build/aosp_code.md'
+          - آشنایی با فرآیند ساخت: 'build/build.md'
+          - فرآیند ساخت روی یک دستگاه : 'build/build-device.md'
+          - امضای دیجیتالی فرآیند ساخت : 'build/build-signing.md'
+          - اجرا روی شبیه‌ساز: 'build/emulator.md'   
+          -  مشکلات فرآیند ساخت: 'build/problems/index.md'      
+      - فرآیند نصب :
+          -  انواع دستگاه‌ها : install/install.md
+          - ملاحظات انواع دستگاه‌ها: install/intro.md
+          - پشتیبان‌گیری و تغییر سیستم‌عامل: install/os-change.md
+          - Tecno Camon C9: install/tecno/c9.md
 
-  - تغییرات ساده:
-    - تغییرات ساده در سیستم‌عامل اندروید: 'modifications/index.md'
-    - افزودن برنامه پیش‌فرض: 'modifications/apk-bundling.md'
-    - اضافه کردن نام دامنه : 'modifications/set_host.md'
-    - تغییر آدرس سرورهای dns : 'modifications/change_dns.md'
+  - نیازها و راه حل‌ها:
+      - تغییرات در فرآیند ساخت و نصب: 
+          - افزودن برنامه پیش‌فرض: 'needs_and_solutions/before_making/apk-bundling.md'
+          - اضافه کردن نام دامنه : 'needs_and_solutions/before_making/set_host.md'
+          - تغییر آدرس سرورهای dns : 'needs_and_solutions/before_making/change_dns.md'
+      - تغییرات در سیسیتم‌عامل فعال: 
+          - گلابی: 'needs_and_solutions/running_os/golabi.md'
+      - مشکلات موجود: 
+          - پارتیشن vendor متناسب با s9: 'needs_and_solutions/current/havig.md'
 
-  - سایر منابع:
+  - منابع:
     - معرفی منابع: 'references/index.md'
-    - کتاب‌ها: 'references/books.md'
+    - کتاب‌ها: 'references/books/books.md'

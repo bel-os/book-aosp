@@ -24,3 +24,7 @@ html: $(MKDOCSTARGETS)
 clean: cleanhtml
 cleanhtml:
 	rm -rf build/html/*
+
+#run site
+run:
+	mkdocs serve
