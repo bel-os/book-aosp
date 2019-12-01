@@ -56,7 +56,7 @@ nav:
       - تغییرات در سیسیتم‌عامل فعال: 
           - گلابی: 'needs_and_solutions/running_os/golabi.md'
       - مشکلات موجود: 
-          - پارتیشن vendor متناسب با s9: 'needs_and_solutions/current/havig.md'
+          - پارتیشن vendor متناسب با s9: 'needs_and_solutions/current/s9_vendor_partition.md'
 
   - منابع:
     - معرفی منابع: 'references/index.md'
