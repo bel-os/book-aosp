@@ -16,6 +16,7 @@ theme:
     tabs: true
 nav:
   - آشنایی و توضیحات:
+      - سخن آغازین : 'introduction/start_page.md'
       - AOSP چیست: 'introduction/aosp.md'
       - مقالات :
           - آیا اندروید متن‌باز است؟  : 'introduction/is-android-open-source.md'
@@ -24,12 +25,14 @@ nav:
           - شرکت‌های سازنده‌‌ی تلفن همراه : 'introduction/oem_news.md'
 
   - مفاهیم:
+      - سخن آغازین : 'concepts/start_page.md'
       - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
       - امضای دیجیتالی: 'concepts/signing.md'
       - پارتیشن vendor : 'concepts/vendor_partition.md'
 
 
-  -  فرآیند ساخت و نصب: 
+  -  فرآیند ساخت و نصب:
+      - سخن آغازین : 'build/start_page.md'
       - فرآیند ساخت :     
           - پیش‌نیاز‌ها: 'build/requirement/index.md'
           - دریافت کد AOSP: 'build/aosp_code.md'
@@ -44,7 +47,8 @@ nav:
           - پشتیبان‌گیری و تغییر سیستم‌عامل: install/os-change.md
           - Tecno Camon C9: install/tecno/c9.md
 
-  - نیازها و راه حل‌ها:
+  - نیازها و راه حل‌ها: 
+      - سخن آغازین : 'needs_and_solutions/start_page.md'
       - تغییرات در فرآیند ساخت و نصب: 
           - افزودن برنامه پیش‌فرض: 'needs_and_solutions/before_making/apk-bundling.md'
           - اضافه کردن نام دامنه : 'needs_and_solutions/before_making/set_host.md'
