@@ -50,6 +50,7 @@ nav:
   - نیازها و راه حل‌ها: 
       - سخن آغازین : 'needs_and_solutions/start_page.md'
       - تغییرات در فرآیند ساخت و نصب: 
+          - قفل‌کردن دوباره‌ی bootloader : 'needs_and_solutions/before_making/relock_bootloader.md'
           - افزودن برنامه پیش‌فرض: 'needs_and_solutions/before_making/apk-bundling.md'
           - اضافه کردن نام دامنه : 'needs_and_solutions/before_making/set_host.md'
           - تغییر آدرس سرورهای dns : 'needs_and_solutions/before_making/change_dns.md'
