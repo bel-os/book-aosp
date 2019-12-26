@@ -18,11 +18,14 @@ nav:
   - آشنایی و توضیحات:
       - سخن آغازین : 'introduction/start_page.md'
       - AOSP چیست: 'introduction/aosp.md'
-      - مقالات :
-          - آیا اندروید متن‌باز است؟  : 'introduction/is-android-open-source.md'
+      - مقالات : 
+          - آیا اندروید متن‌باز است؟  : 'introduction/articles/is-android-open-source.md'
+          - Google's iron grip on Android : 'introduction/articles/Google_iron_grip_on_Android.md' 
       - اخبار :
-          - اخبار سیستم‌عامل : 'introduction/os_news.md'
-          - شرکت‌های سازنده‌‌ی تلفن همراه : 'introduction/oem_news.md'
+          - اخبار سیستم‌عامل : 
+            - گلابی : 'introduction/oem_news.md'
+          - شرکت‌های سازنده‌‌ی تلفن همراه :
+            - هویج : 'introduction/oem_news.md'
 
   - مفاهیم:
       - سخن آغازین : 'concepts/start_page.md'
