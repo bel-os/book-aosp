@@ -28,8 +28,10 @@ nav:
   - مفاهیم:
       - سخن آغازین : 'concepts/start_page.md'
       - انیمیشن راه‌اندازی: 'concepts/boot-animation.md'
-      - امضای دیجیتالی: 'concepts/signing.md'
-      - پارتیشن vendor : 'concepts/vendor-partition.md'
+      - امضای دیجیتال برنامک‌ها: 'concepts/app-signing.md'
+      - پارتیشن‌ها در اندروید: 'concepts/android-disk-partitions.md'
+      - پارتیشن vendor : 'concepts/partitions/vendor.md'
+      - فرآیند به‌روزرسانی: concepts/ota-update-process.md
 
   - مقالات:
     - آیا اندروید متن‌باز است؟  : 'introduction/articles/is-android-open-source.md'
