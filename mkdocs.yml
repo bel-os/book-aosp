@@ -32,6 +32,9 @@ nav:
       - پارتیشن‌ها در اندروید: 'concepts/android-disk-partitions.md'
       - پارتیشن vendor : 'concepts/partitions/vendor.md'
       - فرآیند به‌روزرسانی: concepts/ota-update-process.md
+      - مودم: concepts/modem.md
+
+
 
   - مقالات:
     - آیا اندروید متن‌باز است؟  : 'introduction/articles/is-android-open-source.md'
