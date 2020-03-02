@@ -33,7 +33,7 @@ nav:
       - پارتیشن vendor : 'concepts/partitions/vendor.md'
       - فرآیند به‌روزرسانی: concepts/ota-update-process.md
       - مودم: concepts/modem.md
-      - مودم: concepts/processors.md
+      - پردازنده: concepts/processors.md
 
 
 
