@@ -52,8 +52,9 @@ nav:
     - اجرا روی شبیه‌ساز: 'build/emulator.md'
     - مشکلات فرآیند ساخت: 'build/problems/index.md'
 
-  - فرآیند نصب :
-    - انواع دستگاه‌ها: install/install.md
+  - فرآیند نصب:
+    - دستگاه‌های پشتیبانی شده: install/supported-devices.md
+    - روش نصب انواع دستگاه‌ها: install/install.md
     - ملاحظات انواع دستگاه‌ها: install/intro.md
     - پشتیبان‌گیری و تغییر سیستم‌عامل: install/os-change.md
     - Tecno Camon C9: install/tecno/c9.md
