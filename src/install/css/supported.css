@@ -1,0 +1,18 @@
+div.items {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 170px;
+    height: 150px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+}
+
+#device-brand {
+    text-align: center;
+}
