@@ -12,7 +12,9 @@ Stephen A. Ridley
 Georg Wicherski
 
 کتاب embeded android
+
 Karim Yaghmour
 
 کتاب Android Security Internals
+
 Nikolay Elenkov
