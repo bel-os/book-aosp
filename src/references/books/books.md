@@ -2,8 +2,17 @@
 
 در لینک‌های زیر می‌توانید کتاب‌های مرتبط با ساختار سیستم‌عامل اندروید و توسعه‌ی آن را ببینید.
 
-[کتاب android hackers handbook](Android_Hackers_Handbook.pdf)
+کتاب android hackers handbook
 
-[کتاب embeded android](Embedded_Android.pdf)
+Joshua J. Drake
+Pau Oliva Fora
+Zach Lanier
+Collin Mulliner
+Stephen A. Ridley
+Georg Wicherski
 
-[کتاب Android Security Internals](Android_Security_Internals.pdf)
+کتاب embeded android
+Karim Yaghmour
+
+کتاب Android Security Internals
+Nikolay Elenkov
